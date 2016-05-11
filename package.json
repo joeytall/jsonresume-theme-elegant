@@ -29,6 +29,7 @@
     "markdown-it": "^6.0.1",
     "markdown-it-abbr": "^1.0.3",
     "moment": "^2.8.1",
+    "pug": "^2.0.0-alpha7",
     "resume-schema": "0.0.15",
     "tarball-extract": "0.0.3",
     "underscore": "^1.6.0"
